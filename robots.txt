@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eigehupie.cvautotransport.com/sitemap.xml
